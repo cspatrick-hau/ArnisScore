@@ -9,7 +9,7 @@ This repository contains the core project files. Due to large file size limitati
 To isolate your project dependencies and ensure compatibility, it's recommended to use a virtual environment. Follow the steps below:
 
 Make sure you have Python installed. Type "python -m venv venv" in terminal to install virtual environment. It will generate a folder like this:
-![venv folder](images/2025-07-14 150050.png)
+![venv folder](images/venv.png)
 
 This folder contains the project dependencies such as tensorflow, matplotlib, and etc.
 
@@ -22,7 +22,7 @@ Download the dataset manually from the link below:
 
 After downloading, extract and place the dataset folder into the project root directory as shown:
 
-![dataset folder](images/Screenshot 2025-07-14 150034.png)
+![dataset folder](images/dataset.png)
 
 
 
